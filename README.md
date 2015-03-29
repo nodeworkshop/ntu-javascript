@@ -1,5 +1,5 @@
 # Javascript Fundamentals
-The following labs were part of a Javascript workshop held at Nanyang Technological Unviversity, Singapore on 27th March 2015.
+The following labs were part of a Javascript workshop held at Nanyang Technological University, Singapore on 27th March 2015.
 
 The slides are available here: [http://www.slideshare.net/deepankvora/javascript-fundamentals-46413203](http://www.slideshare.net/deepankvora/javascript-fundamentals-46413203)
 
