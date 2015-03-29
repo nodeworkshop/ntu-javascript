@@ -1,5 +1,9 @@
 # Javascript Fundamentals
-Labs for the Javascript Fundamentals workshop
+The following labs were part of a Javascript workshop held at Nanyang Technological Unviversity, Singapore on 27th March 2015.
+
+The slides are available here: [http://www.slideshare.net/deepankvora/javascript-fundamentals-46413203](http://www.slideshare.net/deepankvora/javascript-fundamentals-46413203)
+
+Solutions can be found in .js files contained in this repository.
 
 ## Lab 1.1
 Write a program that uses `console.log` to print all the numbers from 1 to 100, with two exceptions. For numbers divisible by 3, print "Fizz" instead of the number, and for numbers divisible by 5 (and not 3), print "Buzz" instead. For numbers that are divisible by both 3 and 5, print "FizzBuzz".
